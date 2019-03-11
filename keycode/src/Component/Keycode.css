@@ -1,0 +1,30 @@
+.layout{
+    margin-top: 10%;
+}
+.keycode {
+    transition: all .3s ease;
+    font-size: 12vw;
+    line-height: 2;
+    color: #fff;
+    text-shadow: 5px 5px 5px #333;
+}
+.event-key-wrapper {
+    padding-left: 16%;
+}
+.event-key{
+    border: 1px solid #000;
+}
+.title{
+    font-size: 25px;
+    position: absolute;
+    height: 50px;
+    width: 100%;
+    left: 0;
+    background: #000;
+    color: #fff;
+    font-weight: bolder;
+}
+.key{
+    font-size: 22px;
+    padding: 25px 0px 10px 0px;
+}
